@@ -1,9 +1,5 @@
 node-asn1 (0.2.3-1) UNRELEASED; urgency=low
 
-  [ FIX_ME debian author  Thu, 05 Jan 2017 06:38:43 +0000 ]
-  * Initial release (Closes: #nnnn)
+  * Initial release (Closes: #850135)
 
-  [ root ]
-  * New upstream release
-
- -- root <root@debian-sid>  Thu, 05 Jan 2017 06:39:20 +0000
+ -- akshay kemekar <akshaykemekar@gmail.com>  Wed, 04 Jan 2017 10:30:51 +0000
